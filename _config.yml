@@ -2,7 +2,5 @@ theme: minima
 
 minima:
   social_links:
-    github: limelighty
-    mastodon:
-      - username: limelighty
-        instance: wetdry.world
+    - { platform: github,  user_url: "https://github.com/limelighty" }
+    - { platform: mastodon, user_url: "https://wetdry.world/@limelighty" }
