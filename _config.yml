@@ -3,5 +3,6 @@ theme: minima
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/limelighty" }
+    - { platform: codeberg, user_url: "https://codeberg.org/limelighty" }
     - { platform: bluesky, user_url: "https://bsky.app/profile/limelighty.net" }
     - { platform: mastodon, user_url: "https://wetdry.world/@limelighty" }
